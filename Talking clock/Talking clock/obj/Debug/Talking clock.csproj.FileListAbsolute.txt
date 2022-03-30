@@ -1,0 +1,15 @@
+K:\Учёба\Работы в VS\Talking clock\Talking clock\bin\Debug\Talking clock.exe.config
+K:\Учёба\Работы в VS\Talking clock\Talking clock\bin\Debug\Talking clock.exe
+K:\Учёба\Работы в VS\Talking clock\Talking clock\bin\Debug\Talking clock.pdb
+K:\Учёба\Работы в VS\Talking clock\Talking clock\obj\Debug\Talking clock.csproj.AssemblyReference.cache
+K:\Учёба\Работы в VS\Talking clock\Talking clock\obj\Debug\MainWindow.g.cs
+K:\Учёба\Работы в VS\Talking clock\Talking clock\obj\Debug\App.g.cs
+K:\Учёба\Работы в VS\Talking clock\Talking clock\obj\Debug\Talking clock_MarkupCompile.cache
+K:\Учёба\Работы в VS\Talking clock\Talking clock\obj\Debug\Talking clock_MarkupCompile.lref
+K:\Учёба\Работы в VS\Talking clock\Talking clock\obj\Debug\MainWindow.baml
+K:\Учёба\Работы в VS\Talking clock\Talking clock\obj\Debug\Talking clock.g.resources
+K:\Учёба\Работы в VS\Talking clock\Talking clock\obj\Debug\Talking_clock.Properties.Resources.resources
+K:\Учёба\Работы в VS\Talking clock\Talking clock\obj\Debug\Talking clock.csproj.GenerateResource.cache
+K:\Учёба\Работы в VS\Talking clock\Talking clock\obj\Debug\Talking clock.csproj.CoreCompileInputs.cache
+K:\Учёба\Работы в VS\Talking clock\Talking clock\obj\Debug\Talking clock.exe
+K:\Учёба\Работы в VS\Talking clock\Talking clock\obj\Debug\Talking clock.pdb
